@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\obj\Debug\OOPTheSecond.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\obj\Debug\OOPTheSecond.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\bin\Debug\OOPTheSecond.exe.config
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\bin\Debug\OOPTheSecond.exe
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\bin\Debug\OOPTheSecond.pdb
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\obj\Debug\OOPTheSecond.exe
+C:\Users\asus\source\repos\OOPTheSecond\OOPTheSecond\obj\Debug\OOPTheSecond.pdb
