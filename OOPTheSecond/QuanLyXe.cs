@@ -8,7 +8,7 @@ namespace OOPTheSecond
 {
     class QuanLyXe
     {
-        Dictionary<string, Car> List = new Dictionary<string, Car>();
+        public Dictionary<string, Car> List = new Dictionary<string, Car>();
 
         public void NhapXe()
         {

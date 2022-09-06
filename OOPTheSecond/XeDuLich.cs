@@ -23,5 +23,10 @@ namespace OOPTheSecond
             base.Xuat();
             Console.WriteLine($"So cho ngoi: {SoChoNgoi}");
         }
+
+        public static explicit operator XeDuLich(QuanLyXe v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

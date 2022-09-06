@@ -11,11 +11,9 @@ namespace OOPTheSecond
        
         static void Main(string[] args)
         {
-            QuanLyXe xe = new QuanLyXe();
-            xe.NhapXe();
-            xe.Tim();
-            xe.Xoa();
-            xe.Xuat();
+            HopDongChoThue hd = new HopDongChoThue();
+            hd.Nhap();
+            hd.Xuat();
             Console.ReadKey();
         }
 
